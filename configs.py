@@ -14,7 +14,7 @@ class Config(object):
     BOT_USERNAME = os.getenv("BOT_USERNAME", "VivdiskSearchetBot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1963114305"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Md_Matin_Ashraf")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Matiz_Techz)
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Matiz_Techz")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
